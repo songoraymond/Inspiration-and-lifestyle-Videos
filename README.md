@@ -1,2 +1,2 @@
-# Inspiration-and-lifestyle-Videos
-Inspiration and lifestyle motivational videos
+# Inspiration-and-lifestyle-Repository
+Inspiration and lifestyle motivational content files
